@@ -1,2 +1,5 @@
 # hello-world
-The first project to learn Gitbub
+
+Hi Humans!
+
+Adisak here, I like Node.js and coffeescript
